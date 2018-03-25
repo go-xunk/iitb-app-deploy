@@ -10,7 +10,7 @@
         "/favicon.ico",
         "/index.html",
         "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.4097bee9d0bb8cd7d913.bundle.js",
+        "/main.4e051d8ca16772822d20.bundle.js",
         "/polyfills.8847e333380b2b4c3385.bundle.js",
         "/styles.773193930e8da5243880.bundle.css"
       ],
@@ -38,7 +38,7 @@
   "hashTable": {
     "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/assets/add_image_placeholder.png": "0fa7fdfbe5487dc73b8556355741dd19e1daed2d",
-    "/main.4097bee9d0bb8cd7d913.bundle.js": "02042574b0af9ac9a5dc0073fff6d78f10d34040",
+    "/main.4e051d8ca16772822d20.bundle.js": "14574dd59c0bcf5e84042fe80ea6665186ad98d6",
     "/assets/background.jpg": "110737cbaf03f7ac218574baaed8981d06c19917",
     "/polyfills.8847e333380b2b4c3385.bundle.js": "138162e30294574c49d02f57a0ae8f31acc0934d",
     "/assets/iitb_logo.svg": "e668d00d98c90a764b2920102af327109a0722f6",
@@ -46,7 +46,7 @@
     "/assets/manifest.json": "d4b63ccf0f4dc34d329b57ce83d722e130a6fc95",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/assets/placeholder.png": "853a8813fdba49c88d979c75c2086bc3f8dcd855",
-    "/index.html": "f0e535a291b6c719c47a05708d41c183aaba5336",
+    "/index.html": "ad91d9ab3aafb01b481d5fedb7ef2e1d77ae76ba",
     "/assets/tile.jpg": "9716ebbc4eb2bda4139ee202351e6abd20f5dbbf",
     "/assets/tile_blue.jpg": "fb51b21e10131a80b1b984e958b23ea9679c714b",
     "/assets/tile_red.jpg": "e149310dde940e6d33ec7c5cfeb71fdbb98cd1af",
