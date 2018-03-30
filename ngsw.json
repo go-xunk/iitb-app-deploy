@@ -43,7 +43,7 @@
       "patterns": [
         "\\/api\\/.*"
       ],
-      "strategy": "performance",
+      "strategy": "freshness",
       "maxSize": 20,
       "maxAge": 3600000,
       "timeoutMs": 4000,
