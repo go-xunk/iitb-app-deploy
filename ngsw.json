@@ -10,7 +10,7 @@
         "/favicon.ico",
         "/index.html",
         "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.65c6676136549101709c.bundle.js",
+        "/main.fe1422e1f55ddfcaee79.bundle.js",
         "/polyfills.8847e333380b2b4c3385.bundle.js",
         "/scripts.e611bf743f88e3c9ed67.bundle.js",
         "/styles.7ebb6e74676f89116e54.bundle.css"
@@ -32,14 +32,28 @@
         "/assets/tile_red.jpg",
         "/assets/useravatar.jpg"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
+      ]
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "backend-api",
+      "patterns": [
+        "\\/api\\/.*"
+      ],
+      "strategy": "performance",
+      "maxSize": 20,
+      "maxAge": 3600000,
+      "timeoutMs": 4000,
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/assets/add_image_placeholder.png": "0fa7fdfbe5487dc73b8556355741dd19e1daed2d",
-    "/main.65c6676136549101709c.bundle.js": "34ee7b3b1d3a97a33b891a629fa1489870de24af",
+    "/main.fe1422e1f55ddfcaee79.bundle.js": "74611438d51ff977a09c636fb969346ac515d3a6",
     "/assets/background.jpg": "110737cbaf03f7ac218574baaed8981d06c19917",
     "/polyfills.8847e333380b2b4c3385.bundle.js": "138162e30294574c49d02f57a0ae8f31acc0934d",
     "/assets/iitb_logo.svg": "e668d00d98c90a764b2920102af327109a0722f6",
@@ -49,7 +63,7 @@
     "/assets/placeholder.png": "853a8813fdba49c88d979c75c2086bc3f8dcd855",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/assets/tile.jpg": "9716ebbc4eb2bda4139ee202351e6abd20f5dbbf",
-    "/index.html": "2cbafdcb92995f085eb39a2f1a0fbfe59f66fe4e",
+    "/index.html": "cb4b59c47bdd8dd36fad4339db53ad3eb52c52eb",
     "/assets/tile_blue.jpg": "fb51b21e10131a80b1b984e958b23ea9679c714b",
     "/assets/tile_red.jpg": "e149310dde940e6d33ec7c5cfeb71fdbb98cd1af",
     "/assets/useravatar.jpg": "7a60f8d9f16f7f987628981b61c0e29ce28ce7e9"
