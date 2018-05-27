@@ -6,7 +6,7 @@
   <base href="/">
 
   <link rel="manifest" href="manifest.json">
-  <meta name="theme-color" content="#4DB6AC">
+  <meta name="theme-color" content="#673AB7">
 
   <link rel="apple-touch-icon" sizes="57x57" href="assets/icons/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="assets/icons/apple-icon-60x60.png">
@@ -21,7 +21,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="96x96" href="assets/icons/favicon-96x96.png">
   <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
-  <meta name="msapplication-TileColor" content="#4DB6AC">
+  <meta name="msapplication-TileColor" content="#673AB7">
   <meta name="msapplication-TileImage" content="assets/icons/ms-icon-144x144.png">
 
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -30,8 +30,103 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<link rel="stylesheet" href="styles.6348592542a9521a4cac.css"></head>
-<body style="margin:0;">
-  <app-root></app-root>
-<script type="text/javascript" src="runtime.a66f828dca56eeb90e02.js"></script><script type="text/javascript" src="polyfills.dc8cd632612a64005525.js"></script><script type="text/javascript" src="scripts.e611bf743f88e3c9ed67.js"></script><script type="text/javascript" src="main.086b9798f6a8785ec913.js"></script></body>
+<link rel="stylesheet" href="styles.bfa22a411a6adb44813b.css"></head>
+
+<style>
+  html {
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+
+  body {
+    background-color: #e9ebee;
+    margin: 0;
+  }
+
+  .loading-spinner {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .mat-elevation-z2 {
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12); }
+
+  .spinner {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 0;
+    text-align: center;
+    font-size: 0;
+    padding: 20px;
+    background-color: white;
+  }
+
+  .spinner > div {
+      background-color: #673AB7;
+      height: 100%;
+      transform: scale(1, 0.5);
+
+      width: 6px;
+      display: inline-block;
+
+      margin: 0;
+      padding: 0;
+      margin-right: 3px;
+
+      -webkit-animation: spinner 1s infinite ease-in-out;
+      animation: spinner 1    s infinite ease-in-out;
+  }
+
+  .spinner .rect2 {
+      -webkit-animation-delay: 0.09s;
+      animation-delay: 0.09s;
+  }
+
+  .spinner .rect3 {
+      -webkit-animation-delay: 0.18s;
+      animation-delay: 0.18s;
+  }
+
+  .spinner .rect4 {
+      -webkit-animation-delay: 0.27s;
+      animation-delay: 0.27s;
+  }
+
+  .spinner .rect5 {
+      -webkit-animation-delay: 0.27s;
+      animation-delay: 0.36s;
+  }
+
+  @keyframes spinner {
+      0% {
+        transform: scale(1, 0.5);
+      }
+      20% {
+        transform: scale(1, 1.1);
+      }
+      40% {
+        transform: scale(1, 0.5);
+      }
+      100% {
+          transform: scale(1, 0.5);
+      }
+  }
+</style>
+
+<body>
+  <app-root>
+    <div class="loading-spinner">
+        <div class="spinner mat-elevation-z2">
+          <div class="rect1"></div>
+          <div class="rect2"></div>
+          <div class="rect3"></div>
+          <div class="rect4"></div>
+          <div class="rect5"></div>
+        </div>
+      </div>
+  </app-root>
+<script type="text/javascript" src="runtime.a66f828dca56eeb90e02.js"></script><script type="text/javascript" src="polyfills.dc8cd632612a64005525.js"></script><script type="text/javascript" src="scripts.e611bf743f88e3c9ed67.js"></script><script type="text/javascript" src="main.916d531a8f2eed797963.js"></script></body>
 </html>
