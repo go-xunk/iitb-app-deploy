@@ -9,8 +9,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.590d82157a6ee92158d5.js",
-        "/polyfills.1c0f0def4991b2ba2cfc.js",
+        "/main.fa5746cc4bc4bc740002.js",
+        "/polyfills.3bd166f06d8a8f7b9c05.js",
         "/runtime.6afe30102d8fe7337431.js",
         "/scripts.df42bf43cef21311bf2d.js",
         "/styles.edb96e7d5ba3730b34f4.css"
@@ -23,7 +23,6 @@
       "updateMode": "prefetch",
       "urls": [
         "/assets/add_image_placeholder.png",
-        "/assets/background.jpg",
         "/assets/icons/android-icon-144x144.png",
         "/assets/icons/android-icon-192x192.png",
         "/assets/icons/android-icon-36x36.png",
@@ -54,9 +53,6 @@
         "/assets/map.jpg",
         "/assets/mapdata.json",
         "/assets/placeholder.png",
-        "/assets/tile.jpg",
-        "/assets/tile_blue.jpg",
-        "/assets/tile_red.jpg",
         "/assets/useravatar.jpg"
       ],
       "patterns": [
@@ -79,7 +75,6 @@
   ],
   "hashTable": {
     "/assets/add_image_placeholder.png": "0fa7fdfbe5487dc73b8556355741dd19e1daed2d",
-    "/assets/background.jpg": "110737cbaf03f7ac218574baaed8981d06c19917",
     "/assets/icons/android-icon-144x144.png": "d87dd83ad88209f2c1a524a37f99e8e465562e71",
     "/assets/icons/android-icon-192x192.png": "2c91e76fac19478eba72c9811495b33769853a0f",
     "/assets/icons/android-icon-36x36.png": "6ea4031eb4280c16d8f70ce12656423e66a27e1b",
@@ -110,14 +105,11 @@
     "/assets/map.jpg": "2a9640b63213525598fae50337fec61e3ac27971",
     "/assets/mapdata.json": "1849e2c12775649200fa35d64e40110561491425",
     "/assets/placeholder.png": "853a8813fdba49c88d979c75c2086bc3f8dcd855",
-    "/assets/tile.jpg": "9716ebbc4eb2bda4139ee202351e6abd20f5dbbf",
-    "/assets/tile_blue.jpg": "fb51b21e10131a80b1b984e958b23ea9679c714b",
-    "/assets/tile_red.jpg": "e149310dde940e6d33ec7c5cfeb71fdbb98cd1af",
     "/assets/useravatar.jpg": "7a60f8d9f16f7f987628981b61c0e29ce28ce7e9",
     "/favicon.ico": "6f68e84dc76c6e8654ea656be4589a38a14442ce",
-    "/index.html": "17aa80a235c11cacc1f727b5a07c2e5d65d71f2a",
-    "/main.590d82157a6ee92158d5.js": "7f628a3d738b166120cd1c7322ae3c436bf3ff05",
-    "/polyfills.1c0f0def4991b2ba2cfc.js": "47dd704b4fb2e7fe9294d2842f07409449ae7502",
+    "/index.html": "570b1c3aca9b3aee5be971a2b030dfc57ebeed60",
+    "/main.fa5746cc4bc4bc740002.js": "6da5b23d20201ce5b67fb67d940f2e70dada0ebf",
+    "/polyfills.3bd166f06d8a8f7b9c05.js": "b2e37e3cfe73847d05959b012e1591429b6ba251",
     "/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.df42bf43cef21311bf2d.js": "bbda8c64eff22320cd23b85e4ed9474244febe6d",
     "/styles.edb96e7d5ba3730b34f4.css": "dce3a8cc2b87c2c65118803c3ab93098d1cf8e01"
