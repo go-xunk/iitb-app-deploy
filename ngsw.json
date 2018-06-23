@@ -9,11 +9,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.fcd3a50f66f6112e66a5.js",
+        "/main.3e986cccb5a7dd8b292a.js",
         "/polyfills.3bd166f06d8a8f7b9c05.js",
         "/runtime.6afe30102d8fe7337431.js",
         "/scripts.df42bf43cef21311bf2d.js",
-        "/styles.edb96e7d5ba3730b34f4.css"
+        "/styles.b2377b0d84d2df483b3b.css"
       ],
       "patterns": []
     },
@@ -50,6 +50,7 @@
         "/assets/iitb_logo.svg",
         "/assets/location-icon.svg",
         "/assets/logo.png",
+        "/assets/map-min.jpg",
         "/assets/map.jpg",
         "/assets/mapdata.json",
         "/assets/placeholder.png",
@@ -102,17 +103,18 @@
     "/assets/iitb_logo.svg": "e668d00d98c90a764b2920102af327109a0722f6",
     "/assets/location-icon.svg": "300d586a47741978e5403e6ae4a97afcc9cd4a59",
     "/assets/logo.png": "f3ae7eca2c277d3243ce6b9f3688a7b4596a8003",
+    "/assets/map-min.jpg": "3c9118e92f771feece916ef31068f125f1b91170",
     "/assets/map.jpg": "2a9640b63213525598fae50337fec61e3ac27971",
     "/assets/mapdata.json": "1849e2c12775649200fa35d64e40110561491425",
     "/assets/placeholder.png": "853a8813fdba49c88d979c75c2086bc3f8dcd855",
     "/assets/useravatar.jpg": "7a60f8d9f16f7f987628981b61c0e29ce28ce7e9",
     "/favicon.ico": "6f68e84dc76c6e8654ea656be4589a38a14442ce",
-    "/index.html": "984ce808ce78bde94a0c4ae3088bf0af0cb0294c",
-    "/main.fcd3a50f66f6112e66a5.js": "becaf776e58decc8d3953b7386c5b38a14ba61b2",
+    "/index.html": "67388f1fd4e03921a4fef22f6f2867918b2a9d07",
+    "/main.3e986cccb5a7dd8b292a.js": "fa1821b1c600c0dbc1a5a6c3553793d2e98e5eed",
     "/polyfills.3bd166f06d8a8f7b9c05.js": "b2e37e3cfe73847d05959b012e1591429b6ba251",
     "/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.df42bf43cef21311bf2d.js": "bbda8c64eff22320cd23b85e4ed9474244febe6d",
-    "/styles.edb96e7d5ba3730b34f4.css": "dce3a8cc2b87c2c65118803c3ab93098d1cf8e01"
+    "/styles.b2377b0d84d2df483b3b.css": "8d4b380c7e16e28eac7897582d0a32e2ad9bb355"
   },
   "navigationUrls": [
     {
