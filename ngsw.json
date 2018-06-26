@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.a3b613b2695ae1ff1563.js",
+        "/main.7b260cb297f2451852a1.js",
         "/polyfills.1c0f0def4991b2ba2cfc.js",
         "/runtime.6afe30102d8fe7337431.js",
         "/scripts.df42bf43cef21311bf2d.js",
@@ -22,7 +22,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/add_image_placeholder.png",
+        "/assets/add_image_placeholder.svg",
         "/assets/icons/android-icon-144x144.png",
         "/assets/icons/android-icon-192x192.png",
         "/assets/icons/android-icon-36x36.png",
@@ -75,7 +75,7 @@
     }
   ],
   "hashTable": {
-    "/assets/add_image_placeholder.png": "0fa7fdfbe5487dc73b8556355741dd19e1daed2d",
+    "/assets/add_image_placeholder.svg": "dffdf62ace4dbfe740b397b21517cd95542fed50",
     "/assets/icons/android-icon-144x144.png": "89c2bfcb6b0f6912642acc5a505f1c41a2d0d252",
     "/assets/icons/android-icon-192x192.png": "2e79f39bbe047992d2c8096c78670c9b28474012",
     "/assets/icons/android-icon-36x36.png": "417bd70d749b5050faabad10255ce77d1685ba0a",
@@ -109,8 +109,8 @@
     "/assets/placeholder.png": "853a8813fdba49c88d979c75c2086bc3f8dcd855",
     "/assets/useravatar.svg": "085f2e8f8205b1fcc2830984ef0a47d7ffed89de",
     "/favicon.ico": "e1a922f770ca912d5c6df192965f92cebd3ed97f",
-    "/index.html": "880c4437f2480fc82ee270db8425b5923e45b269",
-    "/main.a3b613b2695ae1ff1563.js": "255df39eca4766aee375db806ca90734d1c7632a",
+    "/index.html": "7992d89ccd8a1ee3b32b873859177d309e1f9fc6",
+    "/main.7b260cb297f2451852a1.js": "ce66a4514a62a40e753fb1d602197dbd6d402667",
     "/polyfills.1c0f0def4991b2ba2cfc.js": "47dd704b4fb2e7fe9294d2842f07409449ae7502",
     "/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.df42bf43cef21311bf2d.js": "bbda8c64eff22320cd23b85e4ed9474244febe6d",
