@@ -9,11 +9,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.7b260cb297f2451852a1.js",
+        "/main.46759e71e6aeb2671cac.js",
         "/polyfills.1c0f0def4991b2ba2cfc.js",
         "/runtime.6afe30102d8fe7337431.js",
         "/scripts.df42bf43cef21311bf2d.js",
-        "/styles.77bc2747f43facc4866a.css"
+        "/styles.7830cc3e8a19666532d3.css"
       ],
       "patterns": []
     },
@@ -53,7 +53,9 @@
         "/assets/logo.svg",
         "/assets/map-min.jpg",
         "/assets/map.jpg",
+        "/assets/noevent.svg",
         "/assets/placeholder.png",
+        "/assets/suncloud.svg",
         "/assets/useravatar.svg"
       ],
       "patterns": [
@@ -106,15 +108,17 @@
     "/assets/logo.svg": "91a02d1910c03d81c2a908343abeb78042842632",
     "/assets/map-min.jpg": "3c9118e92f771feece916ef31068f125f1b91170",
     "/assets/map.jpg": "2a9640b63213525598fae50337fec61e3ac27971",
+    "/assets/noevent.svg": "aa923e89b0ea3de3ebf249625f39abeacd55def6",
     "/assets/placeholder.png": "853a8813fdba49c88d979c75c2086bc3f8dcd855",
+    "/assets/suncloud.svg": "af7ad24fbb0c5ed98b2044a932d2d32d0d1fc700",
     "/assets/useravatar.svg": "085f2e8f8205b1fcc2830984ef0a47d7ffed89de",
     "/favicon.ico": "e1a922f770ca912d5c6df192965f92cebd3ed97f",
-    "/index.html": "7992d89ccd8a1ee3b32b873859177d309e1f9fc6",
-    "/main.7b260cb297f2451852a1.js": "ce66a4514a62a40e753fb1d602197dbd6d402667",
+    "/index.html": "7439ab528e3301528327ae694ddfea5c204b5af1",
+    "/main.46759e71e6aeb2671cac.js": "52158e51294cb285738e651cc1f45c77f6f264a7",
     "/polyfills.1c0f0def4991b2ba2cfc.js": "47dd704b4fb2e7fe9294d2842f07409449ae7502",
     "/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.df42bf43cef21311bf2d.js": "bbda8c64eff22320cd23b85e4ed9474244febe6d",
-    "/styles.77bc2747f43facc4866a.css": "a6ee7192129af36a1df777b6026a567a65487b9d"
+    "/styles.7830cc3e8a19666532d3.css": "037e78efc081ad8e7fe09f1da591083a8e4cfa1b"
   },
   "navigationUrls": [
     {
