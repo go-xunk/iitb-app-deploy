@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.dcb77360fad50bd175c0.js",
+        "/main.a3b613b2695ae1ff1563.js",
         "/polyfills.1c0f0def4991b2ba2cfc.js",
         "/runtime.6afe30102d8fe7337431.js",
         "/scripts.df42bf43cef21311bf2d.js",
@@ -54,7 +54,7 @@
         "/assets/map-min.jpg",
         "/assets/map.jpg",
         "/assets/placeholder.png",
-        "/assets/useravatar.jpg"
+        "/assets/useravatar.svg"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
@@ -107,10 +107,10 @@
     "/assets/map-min.jpg": "3c9118e92f771feece916ef31068f125f1b91170",
     "/assets/map.jpg": "2a9640b63213525598fae50337fec61e3ac27971",
     "/assets/placeholder.png": "853a8813fdba49c88d979c75c2086bc3f8dcd855",
-    "/assets/useravatar.jpg": "7a60f8d9f16f7f987628981b61c0e29ce28ce7e9",
+    "/assets/useravatar.svg": "085f2e8f8205b1fcc2830984ef0a47d7ffed89de",
     "/favicon.ico": "e1a922f770ca912d5c6df192965f92cebd3ed97f",
-    "/index.html": "b2b033d4afd3be492d3e8867122424831102da2f",
-    "/main.dcb77360fad50bd175c0.js": "cad32bbde6bb8bfd272c03cc1e82a7d19b17dc2b",
+    "/index.html": "880c4437f2480fc82ee270db8425b5923e45b269",
+    "/main.a3b613b2695ae1ff1563.js": "255df39eca4766aee375db806ca90734d1c7632a",
     "/polyfills.1c0f0def4991b2ba2cfc.js": "47dd704b4fb2e7fe9294d2842f07409449ae7502",
     "/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.df42bf43cef21311bf2d.js": "bbda8c64eff22320cd23b85e4ed9474244febe6d",
