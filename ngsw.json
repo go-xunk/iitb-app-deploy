@@ -9,11 +9,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.46759e71e6aeb2671cac.js",
+        "/main.320f2d7d3a680ead866c.js",
         "/polyfills.1c0f0def4991b2ba2cfc.js",
         "/runtime.6afe30102d8fe7337431.js",
         "/scripts.df42bf43cef21311bf2d.js",
-        "/styles.7830cc3e8a19666532d3.css"
+        "/styles.0e742e5e288e84793390.css"
       ],
       "patterns": []
     },
@@ -55,6 +55,7 @@
         "/assets/map.jpg",
         "/assets/noevent.svg",
         "/assets/placeholder.png",
+        "/assets/sadcloud.svg",
         "/assets/suncloud.svg",
         "/assets/useravatar.svg"
       ],
@@ -110,15 +111,16 @@
     "/assets/map.jpg": "2a9640b63213525598fae50337fec61e3ac27971",
     "/assets/noevent.svg": "aa923e89b0ea3de3ebf249625f39abeacd55def6",
     "/assets/placeholder.png": "853a8813fdba49c88d979c75c2086bc3f8dcd855",
+    "/assets/sadcloud.svg": "21165d82d4b3d3521f23442cb54f0cfd2949fcfb",
     "/assets/suncloud.svg": "af7ad24fbb0c5ed98b2044a932d2d32d0d1fc700",
     "/assets/useravatar.svg": "085f2e8f8205b1fcc2830984ef0a47d7ffed89de",
     "/favicon.ico": "e1a922f770ca912d5c6df192965f92cebd3ed97f",
-    "/index.html": "7439ab528e3301528327ae694ddfea5c204b5af1",
-    "/main.46759e71e6aeb2671cac.js": "52158e51294cb285738e651cc1f45c77f6f264a7",
+    "/index.html": "e6f4f0c8fe1434dcde936afbe3898945b6fe6324",
+    "/main.320f2d7d3a680ead866c.js": "2e8e4c4fa9b4bd2de1f64a98b37c17279d0a5497",
     "/polyfills.1c0f0def4991b2ba2cfc.js": "47dd704b4fb2e7fe9294d2842f07409449ae7502",
     "/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.df42bf43cef21311bf2d.js": "bbda8c64eff22320cd23b85e4ed9474244febe6d",
-    "/styles.7830cc3e8a19666532d3.css": "037e78efc081ad8e7fe09f1da591083a8e4cfa1b"
+    "/styles.0e742e5e288e84793390.css": "4f70f3c6a20573fdf6b2e4d9c2c04f038612a4b5"
   },
   "navigationUrls": [
     {
