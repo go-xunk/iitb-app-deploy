@@ -401,10 +401,6 @@ Apache License
    See the License for the specific language governing permissions and
    limitations under the License.
 
-rbush@2.0.1
-MIT
-MIT
-
 quickselect@1.1.1
 ISC
 ISC License
