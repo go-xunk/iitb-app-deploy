@@ -9,11 +9,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.48f32ceae74238431b47.js",
+        "/main.1a6ab522855126ad3d92.js",
         "/polyfills.36bce86ea4fd3c1ce910.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/scripts.df42bf43cef21311bf2d.js",
-        "/styles.ada4698df738f7d63832.css"
+        "/styles.3caef19a1d2a7abad6a7.css"
       ],
       "patterns": []
     },
@@ -119,12 +119,12 @@
     "/assets/suncloud.svg": "af7ad24fbb0c5ed98b2044a932d2d32d0d1fc700",
     "/assets/useravatar.svg": "085f2e8f8205b1fcc2830984ef0a47d7ffed89de",
     "/favicon.ico": "5cd46e09fedf4380d96d7c68db6d9f3fe6199c60",
-    "/index.html": "87727acb199e7f228644504a78f9af1f41b91e81",
-    "/main.48f32ceae74238431b47.js": "210ff842a1fd98fe8c4fb20d6a14bbc0faf40448",
+    "/index.html": "8a2fe13c6b0cb22770fc63fde470b1bd74c5d96d",
+    "/main.1a6ab522855126ad3d92.js": "f6e327036860fd872ec3bb1344d4912cdb2e21a8",
     "/polyfills.36bce86ea4fd3c1ce910.js": "d3e102772417d3792c6033bbb4855bda9ff5328a",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.df42bf43cef21311bf2d.js": "bbda8c64eff22320cd23b85e4ed9474244febe6d",
-    "/styles.ada4698df738f7d63832.css": "fe9e2d995c7693eeabec65ff695ca603aa041cec"
+    "/styles.3caef19a1d2a7abad6a7.css": "d364682bd59e04080661297a5fc5483a5a803a4f"
   },
   "navigationUrls": [
     {
