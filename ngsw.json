@@ -13,7 +13,7 @@
         "/polyfills.213e667e76beb53372bf.js",
         "/runtime.ec2944dd8b20ec099bf3.js",
         "/scripts.c15093743b90fdc2c459.js",
-        "/styles.1eb2928781e38f52eb43.css"
+        "/styles.0542920be70849cf0d0d.css"
       ],
       "patterns": []
     },
@@ -105,22 +105,22 @@
     "/assets/icons/ms-icon-70x70.png": "5008a837e0bba39f84faa3422e5e1a5d0db91c2e",
     "/assets/iitb_logo.svg": "e668d00d98c90a764b2920102af327109a0722f6",
     "/assets/location-icon.svg": "300d586a47741978e5403e6ae4a97afcc9cd4a59",
-    "/assets/logo-sq-sm.png": "cb07a5fdc3d49aa851b6223f6a67c93e6bbfa08d",
-    "/assets/logo.png": "8f0f6c601c6486c7af73c01f48bfa0ec0f2c23aa",
+    "/assets/logo-sq-sm.png": "e7380a03ad09458f434384692f48cb3103f78173",
+    "/assets/logo.png": "6bf5bd81cee1bc89dca673ab39f8f97fdb8d5a94",
     "/assets/logo.svg": "8cf01798660510caa40b3cfcbf5b63fbf8cd4c9f",
     "/assets/map-min.jpg": "3c9118e92f771feece916ef31068f125f1b91170",
     "/assets/map.jpg": "2a9640b63213525598fae50337fec61e3ac27971",
     "/assets/petal.svg": "ba44a741a0aa4bd08af2de96e0fd7b009d90de0b",
-    "/assets/placeholder.png": "853a8813fdba49c88d979c75c2086bc3f8dcd855",
+    "/assets/placeholder.png": "8a1dfa169e535aa863324866c7b343aeb27cd4f1",
     "/assets/sadcloud.svg": "21165d82d4b3d3521f23442cb54f0cfd2949fcfb",
     "/assets/useravatar.svg": "085f2e8f8205b1fcc2830984ef0a47d7ffed89de",
     "/favicon.ico": "d6f5b640fbbdf13cf59735ce13cc467fccbd893b",
-    "/index.html": "0fd6cf772a21bca6b5d8c69ec91da8b7986ff8ef",
+    "/index.html": "e11820d17076b876bd930f58ca547b70bf4ffc54",
     "/main.5be33b397aa24aacc58c.js": "9e9ad12506547dcd5fda95ef344b9de9a0cecb70",
     "/polyfills.213e667e76beb53372bf.js": "9fa83e0c055549c5f838c206b2ab8e31514ddc1b",
     "/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/scripts.c15093743b90fdc2c459.js": "29799e77172613b3dd2eddf2201741e890bc63fa",
-    "/styles.1eb2928781e38f52eb43.css": "25dd4ca43488c950aac10af1463a4d4fb1ee62a4"
+    "/styles.0542920be70849cf0d0d.css": "4fdf2c647534c68de2d3bb9b5f100b4c5e6a5341"
   },
   "navigationUrls": [
     {
