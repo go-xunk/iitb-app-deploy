@@ -1,15 +1,17 @@
 {
     "name": "InstiApp",
     "short_name": "InstiApp",
+    "description": "The front page of all student activities at IIT Bombay",
     "start_url": "feed",
     "display": "standalone",
     "theme_color": "#536dfe",
-    "background_color": "#ffffff",
+    "background_color": "#fcfcff",
     "orientation": "portrait",
     "prefer_related_applications": true,
     "related_applications": [
       {
         "platform": "play",
+        "url": "https://play.google.com/store/apps/details?id=app.insti",
         "id": "app.insti"
       }
     ],
