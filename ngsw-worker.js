@@ -2036,6 +2036,7 @@ ${msgIdle}`, { headers: this.adapter.newHeaders({ 'Content-Type': 'text/plain' }
                 } else if (type === 'event') {
                     url += 'event/' + notification.data.id;
                 }
+                url += '?notif=' + notification.notification_id;
 
                 clients.openWindow(url);
 
