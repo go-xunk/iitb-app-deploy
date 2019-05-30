@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1559229070148,
+  "timestamp": 1559229951690,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,12 +10,10 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.4f5470937e5bf2792d72.js",
-        "/main-es5.3fd787c1b6fd4851cd7d.js",
-        "/polyfills-es2015.b2034de3d246cb801714.js",
-        "/polyfills-es5.8d859c49de90b65d3db4.js",
-        "/runtime-es2015.858f8dd898b75fe86926.js",
-        "/runtime-es5.741402d1d47331ce975c.js",
+        "/main.8e74205cf13a4279052e.js",
+        "/polyfills-es5.613d1909ec381c0aefb7.js",
+        "/polyfills.3f98cc993e5bd5bcd91a.js",
+        "/runtime.741402d1d47331ce975c.js",
         "/scripts.614aac4daec396b11ee6.js",
         "/styles.923ab9d08d85dd4e28af.css"
       ],
@@ -129,13 +127,11 @@
     "/assets/sadcloud.svg": "21165d82d4b3d3521f23442cb54f0cfd2949fcfb",
     "/assets/useravatar.svg": "085f2e8f8205b1fcc2830984ef0a47d7ffed89de",
     "/favicon.ico": "d6f5b640fbbdf13cf59735ce13cc467fccbd893b",
-    "/index.html": "35da7ea5478a3ec45a94656caf40581b93c9b5fe",
-    "/main-es2015.4f5470937e5bf2792d72.js": "75a25d7221f9cf117ce97583b41fd8958df5d1a1",
-    "/main-es5.3fd787c1b6fd4851cd7d.js": "e1b277366d90059cb6a6388b8dd19c3cfe7b33d6",
-    "/polyfills-es2015.b2034de3d246cb801714.js": "d8da2e16f9c63090fd78fa1f65f7070eb88deae7",
-    "/polyfills-es5.8d859c49de90b65d3db4.js": "0a46105acf96d37f85907bdb7c04520cfe438909",
-    "/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/index.html": "4f2a49f43713adf326e079212bf57ad37d1ecb63",
+    "/main.8e74205cf13a4279052e.js": "dec3c0cb385e1882e57dc74d38203ac229f1294a",
+    "/polyfills-es5.613d1909ec381c0aefb7.js": "e3aac0d6ebd3f9f1286da2a0bbb8631c4642986c",
+    "/polyfills.3f98cc993e5bd5bcd91a.js": "b8dcfb212159182bed093f37e03c4caba11bffd8",
+    "/runtime.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/scripts.614aac4daec396b11ee6.js": "192536683d502491a17d0ba7d63824007d91a96e",
     "/styles.923ab9d08d85dd4e28af.css": "4513854c64fa9d710a862d3571c7c1af59b9aeee"
   },
