@@ -1,5 +1,6 @@
 {
   "configVersion": 1,
+  "timestamp": 1559228529434,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -9,11 +10,14 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.7b4ad4a5406a80c3e037.js",
-        "/polyfills.572967df138948fc689b.js",
-        "/runtime.a5dd35324ddfd942bef1.js",
-        "/scripts.6d3bcea22f519243978e.js",
-        "/styles.190ca83811ef82360772.css"
+        "/main-es2015.f4e986387c71f4d365bf.js",
+        "/main-es5.bb97c9e4243067f0c56b.js",
+        "/polyfills-es2015.b2034de3d246cb801714.js",
+        "/polyfills-es5.8d859c49de90b65d3db4.js",
+        "/runtime-es2015.858f8dd898b75fe86926.js",
+        "/runtime-es5.741402d1d47331ce975c.js",
+        "/scripts.614aac4daec396b11ee6.js",
+        "/styles.923ab9d08d85dd4e28af.css"
       ],
       "patterns": []
     },
@@ -125,12 +129,15 @@
     "/assets/sadcloud.svg": "21165d82d4b3d3521f23442cb54f0cfd2949fcfb",
     "/assets/useravatar.svg": "085f2e8f8205b1fcc2830984ef0a47d7ffed89de",
     "/favicon.ico": "d6f5b640fbbdf13cf59735ce13cc467fccbd893b",
-    "/index.html": "f300a5beaece79f449aba34efce166f186bd181a",
-    "/main.7b4ad4a5406a80c3e037.js": "87d9a3088d275e207e1e444bed42def9f226c330",
-    "/polyfills.572967df138948fc689b.js": "7a5be45e47373374b5ae18a88adb04183f75f371",
-    "/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/scripts.6d3bcea22f519243978e.js": "d8a8cc591661967e7d96bff61d95b74fd4b880c5",
-    "/styles.190ca83811ef82360772.css": "1d82747f3fc0440a8ecfdf94ebc92e3afe9258e6"
+    "/index.html": "f0d38abd7f33e52d58f15caa5e0ea9fabe8dcf0c",
+    "/main-es2015.f4e986387c71f4d365bf.js": "888a2d04da1898b33001672f7015527bb0f56fd1",
+    "/main-es5.bb97c9e4243067f0c56b.js": "0c892e2b97f276f4c91ad00a2701ab371f44fc70",
+    "/polyfills-es2015.b2034de3d246cb801714.js": "d8da2e16f9c63090fd78fa1f65f7070eb88deae7",
+    "/polyfills-es5.8d859c49de90b65d3db4.js": "0a46105acf96d37f85907bdb7c04520cfe438909",
+    "/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/scripts.614aac4daec396b11ee6.js": "192536683d502491a17d0ba7d63824007d91a96e",
+    "/styles.923ab9d08d85dd4e28af.css": "4513854c64fa9d710a862d3571c7c1af59b9aeee"
   },
   "navigationUrls": [
     {

@@ -2041,30 +2041,6 @@ ${msgIdle}`, { headers: this.adapter.newHeaders({ 'Content-Type': 'text/plain' }
             return __awaiter$5(this, void 0, void 0, function* () {
                 notification.close();
                 const options = {};
-
-                // Construct the URL
-                let url = 'https://insti.app/';
-                const type = notification.data.type
-                if (type === 'blogentry') {
-                    if (notification.data.extra.indexOf('training') !== -1)
-                        url += 'blog/ImFwaS90cmFpbmluZy1ibG9nez9mcm9tLG51bSxxdWVyeX0i';
-                    else
-                        url += 'blog/ImFwaS9wbGFjZW1lbnQtYmxvZ3s%252FZnJvbSxudW0scXVlcnl9Ig%253D%253D';
-                } else if (type === 'newsentry') {
-                    url += 'news'
-                } else if (type === 'event') {
-                    url += 'event/' + notification.data.id;
-                }
-
-                // Add notification id if present
-                const notifid = notification.data.notification_id;
-                if (notifid !== undefined && notifid !== null && notifid !== '') {
-                    url += '?notif=' + notifid;
-                }
-
-                // Open a new window
-                clients.openWindow(url);
-
                 // The filter uses `name in notification` because the properties are on the prototype so
                 // hasOwnProperty does not work here
                 NOTIFICATION_OPTION_NAMES.filter(name => name in notification)
