@@ -831,6 +831,9 @@ MIT
 ol
 BSD-2-Clause
 
+qrcode-generator
+MIT
+
 quickselect
 ISC
 ISC License
