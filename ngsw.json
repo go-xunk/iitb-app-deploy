@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1563621964594,
+  "timestamp": 1563628752803,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.ccc08c7f365cf0504a88.js",
+        "/main.6619bfc98345556f945f.js",
         "/polyfills-es5.69d2f902b7fa654ec4d5.js",
         "/polyfills.5e88349c1c3551a0bb90.js",
         "/runtime.741402d1d47331ce975c.js",
@@ -24,6 +24,9 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/achievements/generic.png",
+        "/assets/achievements/generic_dark.png",
+        "/assets/achievements/list.json",
         "/assets/add_image_placeholder.svg",
         "/assets/icons/android-icon-144x144.png",
         "/assets/icons/android-icon-192x192.png",
@@ -86,6 +89,9 @@
     }
   ],
   "hashTable": {
+    "/assets/achievements/generic.png": "bd27cc747fb4789e5a2e66787c85e1339f2a2b42",
+    "/assets/achievements/generic_dark.png": "087d631dbc793542806bb663fc9a7ad956c1be38",
+    "/assets/achievements/list.json": "870890104c88f33a56d4a28d9a7dd08bb6886265",
     "/assets/add_image_placeholder.svg": "dffdf62ace4dbfe740b397b21517cd95542fed50",
     "/assets/icons/android-icon-144x144.png": "7792dec94d7b11d69cd9ab411f498d5a8c62d1b4",
     "/assets/icons/android-icon-192x192.png": "51107b26f4c8790bd210567079d77c84b7fc41aa",
@@ -129,8 +135,8 @@
     "/assets/sadcloud.svg": "21165d82d4b3d3521f23442cb54f0cfd2949fcfb",
     "/assets/useravatar.svg": "085f2e8f8205b1fcc2830984ef0a47d7ffed89de",
     "/favicon.ico": "d6f5b640fbbdf13cf59735ce13cc467fccbd893b",
-    "/index.html": "f9c98f38ae41f736899e67bbfaa0e8515c49d626",
-    "/main.ccc08c7f365cf0504a88.js": "79fd587f171a51f378c7e2267c297a9575b46e59",
+    "/index.html": "3a7b0e5b39cb5ad434bb65ebad49d9f6da48c4fe",
+    "/main.6619bfc98345556f945f.js": "c780708937d52ac010a92ea169a238350a1fd04b",
     "/polyfills-es5.69d2f902b7fa654ec4d5.js": "e3aac0d6ebd3f9f1286da2a0bbb8631c4642986c",
     "/polyfills.5e88349c1c3551a0bb90.js": "10fc2ae425b69d302dd3138b50534c05d2574caa",
     "/runtime.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
