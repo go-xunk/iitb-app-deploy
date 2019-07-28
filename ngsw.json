@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1563969888834,
+  "timestamp": 1564311619852,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,12 +10,10 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.701112759bd686fc7011.js",
-        "/main-es5.df09a034115fdffeec39.js",
-        "/polyfills-es2015.910c98f11d0a84d035f1.js",
-        "/polyfills-es5.91b838b4280ca4be17c3.js",
-        "/runtime-es2015.858f8dd898b75fe86926.js",
-        "/runtime-es5.741402d1d47331ce975c.js",
+        "/main.cb6085bac202185932aa.js",
+        "/polyfills-es5.69d2f902b7fa654ec4d5.js",
+        "/polyfills.1be078c3c58aeb30eb08.js",
+        "/runtime.741402d1d47331ce975c.js",
         "/scripts.614aac4daec396b11ee6.js",
         "/styles.923ab9d08d85dd4e28af.css"
       ],
@@ -183,13 +181,11 @@
     "/assets/sadcloud.svg": "21165d82d4b3d3521f23442cb54f0cfd2949fcfb",
     "/assets/useravatar.svg": "085f2e8f8205b1fcc2830984ef0a47d7ffed89de",
     "/favicon.ico": "d6f5b640fbbdf13cf59735ce13cc467fccbd893b",
-    "/index.html": "cb0ebdb3c28e5eda351b5660a99983c232f4c40e",
-    "/main-es2015.701112759bd686fc7011.js": "b513d74d99111c454198471dc63fe84ea3d97990",
-    "/main-es5.df09a034115fdffeec39.js": "aaa560e813f6b5e356693e10c21ad1e751459e07",
-    "/polyfills-es2015.910c98f11d0a84d035f1.js": "e00c0d910cc3cc1107f462debea1a58133a1ab03",
-    "/polyfills-es5.91b838b4280ca4be17c3.js": "fed926b73b9c4b0842102ba027302240768ee79b",
-    "/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/index.html": "65336e82ac0b03856012da95c8175137b036e8ea",
+    "/main.cb6085bac202185932aa.js": "5bf96929af95269786d994d61a2a8e06ec1364f0",
+    "/polyfills-es5.69d2f902b7fa654ec4d5.js": "e3aac0d6ebd3f9f1286da2a0bbb8631c4642986c",
+    "/polyfills.1be078c3c58aeb30eb08.js": "145d98d8755a4e81c62be1bfa4df7dcd79de8aaf",
+    "/runtime.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/scripts.614aac4daec396b11ee6.js": "192536683d502491a17d0ba7d63824007d91a96e",
     "/styles.923ab9d08d85dd4e28af.css": "4513854c64fa9d710a862d3571c7c1af59b9aeee"
   },
