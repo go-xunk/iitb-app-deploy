@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1567687873245,
+  "timestamp": 1575127954987,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.1737e69fc60670e36e60.js",
+        "/main.a74bf7050846ba6e1c01.js",
         "/polyfills-es5.2c727731275268e59b65.js",
         "/polyfills.a1fc399f32d0b97e70f8.js",
         "/runtime.8fbc2fd6f12647d93e24.js",
@@ -48,6 +48,7 @@
         "/assets/achievements/svg/silver-medal.svg",
         "/assets/achievements/svg/silver-medal_dark.svg",
         "/assets/add_image_placeholder.svg",
+        "/assets/badge-medal.png",
         "/assets/error/basketball-gray.png",
         "/assets/icons/android-icon-144x144.png",
         "/assets/icons/android-icon-192x192.png",
@@ -136,6 +137,7 @@
     "/assets/achievements/svg/silver-medal.svg": "f4500a04e13ba956d5599dadbc1bc3d789a0d340",
     "/assets/achievements/svg/silver-medal_dark.svg": "d4759e977e434d691b8efe43d5067edfba6c14e4",
     "/assets/add_image_placeholder.svg": "dffdf62ace4dbfe740b397b21517cd95542fed50",
+    "/assets/badge-medal.png": "a2f805c69784b0a1d1bcf46bc1b402a8bc1bdadf",
     "/assets/error/basketball-gray.png": "8e2f49549d9e6b8ac417f38332eeb403e40fe6af",
     "/assets/icons/android-icon-144x144.png": "7792dec94d7b11d69cd9ab411f498d5a8c62d1b4",
     "/assets/icons/android-icon-192x192.png": "51107b26f4c8790bd210567079d77c84b7fc41aa",
@@ -181,12 +183,12 @@
     "/assets/sadcloud.svg": "21165d82d4b3d3521f23442cb54f0cfd2949fcfb",
     "/assets/useravatar.svg": "085f2e8f8205b1fcc2830984ef0a47d7ffed89de",
     "/favicon.ico": "d6f5b640fbbdf13cf59735ce13cc467fccbd893b",
-    "/index.html": "867dd5545282dd56f849adb90d27bfc02cbaf337",
-    "/main.1737e69fc60670e36e60.js": "a32994e5757572020a0a00747c4f2bcc2af82a8a",
+    "/index.html": "c5b6fd2b599742e59cad19e5e12d667ffa80dfdd",
+    "/main.a74bf7050846ba6e1c01.js": "50f631cbbbbb84695971f1510a26800f696a8c5a",
     "/polyfills-es5.2c727731275268e59b65.js": "0d2936d38d13943b6abd5b0b6b2931b21494b23c",
     "/polyfills.a1fc399f32d0b97e70f8.js": "dbac0ab0e0f2b2a8f15c535d87d99b08588c44b3",
     "/runtime.8fbc2fd6f12647d93e24.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/scripts.ff89bbd26e044df9f81f.js": "4fdeebf470e47d83e4047c83407b64c93ea1f66f",
+    "/scripts.ff89bbd26e044df9f81f.js": "d04dcfbf6f7f4f7b7ea9184c5f6531f845050e8e",
     "/styles.62667f3686f95e46d090.css": "e9af19085ef057a912aecbdefaf8b70820fd301a"
   },
   "navigationUrls": [
